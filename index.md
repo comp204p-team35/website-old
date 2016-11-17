@@ -1,8 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
+permalink: /
 ---
 
-Home page!
+Welcome
+-------
+This is the project website for UCL COMP204P Team 35. We're working on the Cancer project within the NHS PEACH programme.
