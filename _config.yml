@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: COMP204P Team 35
 description: The project website for UCL COMP204P Team 35.
-baseurl: "/2016/group35" # the subpath of your site, e.g. /blog
-url: "http://students.cs.ucl.ac.uk"
+baseurl: ""
+url: "http://students.cs.ucl.ac.uk/2016/group35"
 github_username: comp204p-team35/website
 
 # Build settings

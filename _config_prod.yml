@@ -1,0 +1,3 @@
+# Our server's base URL (only for production use)
+
+baseurl: "/2016/group35" # the subpath of your site, e.g. /blog
