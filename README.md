@@ -32,3 +32,11 @@ Changes you make should be automatically detected whilst the Jekyll server is ru
 ```
 $ jekyll build
 ```
+
+Deployment
+----------
+To deploy to the UCL server, build the production site by running
+```
+jekyll build --config=_config.yml,_config_prod.yml
+```
+Then simply copy the contents of the _site directory to the UCL server.
