@@ -5,8 +5,8 @@ The project website for UCL COMP204P Team 35.
 Team Members
 ------------
 - Ben Hadfield
-- Julian
-- Sim
+- Julien Nahum
+- Sim Zi Jian
 
 Getting Started
 ---------------
