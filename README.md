@@ -16,7 +16,7 @@ $ gem install jekyll bundler
 $ cd <path/to/cloned/repo>
 $ bundle exec jekyll serve
 ```
-to start a local server and then navigate to `http://localhost:4000` to view the site.
+This starts a lightweight server. Navigate to `http://localhost:4000` to view the site.
 
 Editing Pages
 -------------
