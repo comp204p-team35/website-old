@@ -21,6 +21,7 @@ This starts a lightweight server. Navigate to `http://localhost:4000` to view th
 Editing Pages
 -------------
 To edit a page, open the `.md` file corresponding to that page. So to edit the testing page open `testing.md`.
+Notice that all `.md` files start with some [YAML](https://en.wikipedia.org/wiki/YAML) code surrounded by three dashes. This gives Jekyll some information on how to render the page.
 Files are written using the [markdown](https://guides.github.com/features/mastering-markdown/) syntax and the [Liquid Templating Language](https://jekyllrb.com/docs/templates/).
 Changes should be automatically detected whilst the Jekyll server is running, but if for some reason this doesn't work then try running
 ```
