@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Background and Context
+title: Background
 permalink: /background/
 ---
 
