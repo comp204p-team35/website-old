@@ -4,6 +4,8 @@ title: Requirements
 permalink: /requirements/
 ---
 
+See [issue #4](https://github.com/comp204p-team35/website/issues/4).
+
 The requirements:
 - Workflow Manager
 - Scheduler/Diary
