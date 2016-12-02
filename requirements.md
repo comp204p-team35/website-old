@@ -27,7 +27,6 @@ This is a list of all the requirements as agreed with our client. These requirem
 | 2.2|From the search result it shall be possible to view patient history|Functional|Drag and drop|Must|
 | 2.3|It shall be possible to add patient to a meeting and add a reason to why the patient is assigneds|Functional|Drag and drop|Must|
 | 2.3|Patients shall be added by a drag and frop function|UI/UX|Drag and drop|Must|
-
 |----|-------------|------|----------|----------|
 | 3.1|             |      |Jobs list|Should|  
 
