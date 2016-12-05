@@ -23,8 +23,8 @@ This is a list of all the requirements as agreed with our client. These requirem
 | 1.3|The meetings shall be created/edited based on user role|Functional|Scheduler/Diary|Must|
 | 1.4|The meetings shall have a start time, and end time, a location, and the team to attend|Functional|Scheduler/Diary|Must|
 | 1.5|Ability to drag and drop patients to meeting|Functional|Scheduler/Diary|Must|
-| 2.1|They shall be a search patient functionality|Functional|Drag and drop|Must|
-| 2.2|From the search result it is possible to view patient history|Functional|Drag and drop|Must|
+| 2.1|Patient Search functionality|Functional|Drag and drop|Must|
+| 2.2|Possible to view patient history|Functional|Drag and drop|Must|
 | 2.3|Possible to add patient to a meeting and add a reason to why the patient is assigned|Functional|Drag and drop|Must|
 | 3.1|Jobs list component|Functional|Jobs list|Should|  
 | 3.2|Jobs list component unique per user|Functional|Jobs list|Should|  
